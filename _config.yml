@@ -1,0 +1,28 @@
+title: 双鱼的梦想幻想曲
+description: 双鱼的梦想幻想曲———技术总结
+
+url: http://xiachunmei.github.io
+baseurl: "/xiachunmei.github.io"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: binonxia
+   twitter: binonxia
+   facebook: Chunmei Xia
+   email: binonxia@gmail.com
+
+google_analytics: "UA-58263416-1"
