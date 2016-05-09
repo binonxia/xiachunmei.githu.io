@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: 双鱼的梦想幻想曲
+description: 双鱼的梦想幻想曲———技术总结
 
 url: http://xiachunmei.github.io/long-haul
 baseurl: ""
@@ -21,7 +21,7 @@ navigation:
 
 social:
    github: binonxia
-   twitter: brianmaierjr
+   twitter: binonxia
    facebook: Chunmei Xia
    email: binonxia@gmail.com
 
