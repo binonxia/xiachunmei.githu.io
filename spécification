@@ -1,0 +1,10 @@
+Spécification du système contrôle centralisé publicitaire 
+===============
+###1. l'architecture de projet:
+
+![enter image description here](https://lh3.googleusercontent.com/-6a_ST0STWz8/WQyEuv5CtUI/AAAAAAAAAhM/_zxdpCNCRiktDGDBFcFb9SkXpO-9hUthACLcB/s0/architecture_skrnz%25281%2529.png "architecture_skrnz&#40;1&#41;.png")
+
+>**Express** est comme un API REST pour la gestion du MongoDB.
+>**NodeJS** est pour la gestion du Server
+>**AngularJS** soit utilisé de créer le front-page du server, soit vide à la débuté.
+>**Soket.io** est pour se communiquer entre le mobile et les écrans
