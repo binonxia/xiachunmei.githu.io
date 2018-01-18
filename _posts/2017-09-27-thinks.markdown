@@ -1,3 +1,10 @@
+
+<figure>
+	<img src="{{ '/assets/img/2017-09-27.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Fig1. - 亦源家raclette</figcaption>
+</figure>
+
+
 <p>
 少年往往是理想主义的，中年往往是庸俗世故的。
 
