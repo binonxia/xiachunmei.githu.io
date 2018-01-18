@@ -4,7 +4,7 @@ title:  "迷茫的追问"
 date:   2017-09-27
 ---
 <figure>
-	<img src="{{ '/assets/img/2017-09-27' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/2017-09-27' | prepend: site.baseurl }}" width="50%" height="50%"alt=""> 
 	<figcaption>Fig1. - 亦源家raclette</figcaption>
 </figure>
 
